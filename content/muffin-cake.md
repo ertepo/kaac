@@ -2,7 +2,6 @@
 categories = ["Bambini", "Ricette"]
 date = 2022-01-24T23:00:00Z
 description = "Un delizioso Muffin al cioccolato"
-draft = true
 image = "/images/cupcake-alla-nutella-980x685.webp"
 tags = ["muffin", "cake", "ricetet", "facili", "veloce", "fattoincasa"]
 title = "Muffin Cake"
