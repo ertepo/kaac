@@ -4,7 +4,7 @@ languageCode: en-us
 title: Kitchen Art And Craft
 module:
   imports:
-  - path: github.com/themefisher/parsa-hugo
+  - path: github.com/themefisher/parsa-hugop
     mounts:
     - source: layouts
       target: layouts
