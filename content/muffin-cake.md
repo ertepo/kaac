@@ -1,26 +1,17 @@
 ---
-title: "Organize Your Life With 10 Simple rule"
-date: 2019-05-14T14:46:10+06:00
+title: "Muffin Cake"
+date: 2022-01-24T23:00:00Z
 description: "This is meta description"
-type: "featured"
-image: "images/featured-post/post-2.jpg"
+type: "ricetta"
+image: "/images/cupcake-alla-nutella-980x685.webp"
 categories: 
-  - "Philosophy"
+  - "Bambini"
 tags:
   - "Philosophy"
   - "Photos"
+  - "muffin"
+  - "cake"
 ---
-
-+++
-categories = ["Bambini", "Ricette"]
-date = 2022-01-24T23:00:00Z
-description = "Un delizioso Muffin al cioccolato"
-image = "/images/cupcake-alla-nutella-980x685.webp"
-tags = ["muffin", "cake", "ricetet", "facili", "veloce", "fattoincasa"]
-title = "Muffin Cake"
-type = "ricetta"
-
-+++
 
 # Muffin
 
